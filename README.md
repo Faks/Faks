@@ -9,7 +9,7 @@ Skills: PHP / MySQL / SQL / PostgreSQL / SQLite / MongoDB | Webpack / Npm / Gulp
 - 🌱 I’m currently learning One too many things 
 - 👯 I’m looking to collaborate on Laravel: package development 
 - 🤔 I’m looking for help with Sales. 
-- 💼 I’m looking for contracts, projects, fulltime,temp job: (remote only). 
+- 💼 I’m looking for Projects: (remote only).
 - 📫 How to reach me: solumdesignum@gmail.com 
 
 
