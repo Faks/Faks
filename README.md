@@ -3,6 +3,7 @@
 The right man in the wrong place can make all the difference in the world.
 
 fsociety.
+
 rA9
 
 Skills: PHP / MySQL / SQL / PostgreSQL / SQLite / MongoDB | Webpack / Npm / Gulp / Vite / Node.js / Deno | TypeScript / ECMAScript2020/ ECMAScriptNext / Vue.js / Inertia.js / jQuery / Ajax / NativeScript | HTML / CSS / Sass / Less / Bootstrap / Tailwind / Bulma / Foundation | Laravel / Symfony / Yii2 / CodeIgniter 3 | Unix / Linux / Nginx / Lighttpd / Apache | Git / Apache Subversion / RESTful API | SOAP
