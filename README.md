@@ -1,6 +1,6 @@
 ## Fiat justitia ruat caelum.
 ### Hi there 👋, my name is Oskars, I am a Full Stack Engineer, with experience of over 15 years.
-The right man in the wrong place can make all the difference in the world.
+Prepare for unforseen consequences.
 
 fsociety.
 
