@@ -10,7 +10,7 @@ I engineer resilience. I take fragmented, unscalable application layers and make
 - **Infrastructure.** Docker, Docker Swarm, Traefik, Nginx, CI/CD, system hardening, GDPR/EU compliance. Kubernetes I have played with, not worked with. I do not claim it.
 - **Architecture.** Modular monoliths, microservices, multi-tenant SaaS. MGA platform with strict per-tenant isolation for 12+ enterprise tenants (Aon, Nov 2021 to Sep 2025).
 - **Local AI.** llama.cpp inference for private automation, no data handed to a third-party API.
-- **Open source.** [recomposer](https://github.com/SolumDeSignum/recomposer) · [scenarios](https://github.com/SolumDeSignum/scenarios) · [package-env-loader](https://github.com/SolumDeSignum/package-env-loader) · [package-translator-loader](https://github.com/SolumDeSignum/package-translator-loader) · [Invoices](https://github.com/SolumDeSignum/Invoices) · [Laradock fork](https://github.com/Faks/laradock) (PHP 5.x to 8.4). Python packages for media-player integration (OBS, VLC, Winamp).
+- **Open source.** [recomposer](https://github.com/SolumDeSignum/recomposer) · [scenarios](https://github.com/SolumDeSignum/scenarios) · [package-env-loader](https://github.com/SolumDeSignum/package-env-loader) · [package-translator-loader](https://github.com/SolumDeSignum/package-translator-loader) · [Invoices](https://github.com/SolumDeSignum/Invoices) · [Laradock fork](https://github.com/Faks/laradock) (PHP 5.x to 8.5). Python packages for media-player integration (OBS, VLC, Winamp).
 
 **Open to work.** Architecture and engineering engagements, Riga or remote.
 
